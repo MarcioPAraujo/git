@@ -1,2 +1,3 @@
 hello and welcome
 this line was added to the branch new_line
+new line added by com2
